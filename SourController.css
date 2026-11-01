@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Base3.png);
+  background-image: url(https://imgur.com/hBuuAFy.png);
 }
 
 .ds4.white.disconnected {
@@ -8,11 +8,11 @@
 }
 
 .ds4.white .trigger {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Triggers.png);
+  background-image: url(https://imgur.com/9Ym4NKG.png);
 }
 
 .ds4.white .bumper {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Bumper.png);
+  background-image: url(https://imgur.com/f2Yer4E.png);
 }
 
 .ds4.white .touchpad.pressed {
@@ -21,19 +21,19 @@
 
 .ds4.white .back,
 .ds4 .start {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Start.png);
+  background-image: url(https://imgur.com/tC0A4H7.png);
 }
 
 .ds4.white .button {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Face.png);
+  background-image: url(https://imgur.com/swRMWLN.png);
 }
 
 .ds4.white .stick {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/Sticks.png);
+  background-image: url(https://imgur.com/lbXLhqH.png);
 }
 
 .ds4.white .face {
-  background-image: url(https://raw.github.com/Durhty/SourController/main/DPad.png);
+  background-image: url(https://imgur.com/nMPiQje.png);
 }
 
 /*END PS4 White Controller Styling*/
